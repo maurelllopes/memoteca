@@ -7,18 +7,6 @@
       "modelo": "modelo1"
     },
     {
-      "id": 2,
-      "conteudo": "Estudando Angular",
-      "autoria": "Dev Alura",
-      "modelo": "modelo2"
-    },
-    {
-      "id": 3,
-      "conteudo": "Angular é o melhor'",
-      "autoria": "Dev Alura",
-      "modelo": "modelo3"
-    },
-    {
       "conteudo": "Pensamento singular do ser humano",
       "autoria": "Maurell",
       "modelo": "modelo2",
@@ -29,6 +17,12 @@
       "autoria": "Djavan",
       "modelo": "modelo1",
       "id": 5
+    },
+    {
+      "conteudo": "Lulala Lulala",
+      "autoria": "Maurell",
+      "modelo": "modelo3",
+      "id": 6
     }
   ]
 }
