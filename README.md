@@ -1,4 +1,4 @@
-# Memoteca
+<h1 align="center"> Memoteca </h1>
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.6.
 
